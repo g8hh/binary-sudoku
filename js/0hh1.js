@@ -3020,7 +3020,7 @@ var Levels = new function () {
     };
 if (Language.add("zh", {
         weekDays: ["星期日", "星期一", "星期二", "星期三", "星期四", "星期五", "星期六"],
-        ojoos: ["Goed", "Netjes", "Knap", "Fantastisch", "Geweldig", "Super", "Slim", "Briljant"],
+        ojoos: ["不错", "干净", "漂亮", "极好", "真棒", "超级棒", "聪明", "秀儿"],
         t01: "我们要填满整个地图。<br>点击使框变红。",
         t02: "完美!<br>点击两次以获得蓝色.",
         t03: "不允许出现三个相邻的红色方块。",
